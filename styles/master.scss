@@ -1,1 +1,15 @@
 @import './Home';
+
+
+body {
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none !important;
+}
+img {
+    width: 100%;
+}

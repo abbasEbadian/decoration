@@ -2,6 +2,9 @@
     box-sizing: border-box;
 }
 
-.home{
-    color:red;
+.SlidingImg {
+    position: relative;
+    .ContentSlider {
+     color: #000;
+    }
 }
